@@ -1,0 +1,5 @@
+graph TD;
+    A[Raw Materials] --> B[Sterilization];
+    B --> C[CNC Machining];
+    C --> D[Packaging];
+    D --> E[Finished Goods]
